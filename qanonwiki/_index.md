@@ -1,12 +1,6 @@
 ---
 order: 1
-title: Вводная информация
+title: Главная РП
 ---
 
 <view defs="hierarchy=none" display="List"/>
-
-123123123123123
-
-54354 234234
-
-
