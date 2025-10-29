@@ -3,9 +3,13 @@ order: 1
 title: Конституция
 ---
 
+<image src="./konstituciya.png" crop="0,0,100,100" scale="54" width="1024px" height="1024px" float="center"/>
+
 ---
 
-<image src="./konstituciya.png" crop="0,0,100,100" scale="54" width="1024px" height="1024px" float="center"/>
+**Конституция Содружества ВДНХ**\
+Принят на общем собрании **Совета Содружества ВДНХ**\
+и утверждён **народным решением** 2 марта 2025 года.
 
 ## Раздел I. Общие положения
 
