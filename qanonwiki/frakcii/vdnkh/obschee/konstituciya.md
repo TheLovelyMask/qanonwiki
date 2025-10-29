@@ -5,6 +5,8 @@ title: Конституция
 
 ---
 
+<image src="./konstituciya.png" crop="0,0,100,100" scale="54" width="1024px" height="1024px" float="center"/>
+
 ## Раздел I. Общие положения
 
 ### Статья 1
