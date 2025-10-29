@@ -1,5 +1,7 @@
 ---
-order: 1
-title: «ВДНХ»
+title: ВДНХ
 ---
+
+<view defs="hierarchy=none" display="List"/>
+
 
