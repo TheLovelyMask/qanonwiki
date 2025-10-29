@@ -1,5 +1,5 @@
 ---
-order: 1.99
+order: 1
 title: «SПАРТА»
 ---
 
